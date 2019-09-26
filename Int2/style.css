@@ -1,0 +1,32 @@
+.container{
+	width: 250px;
+	height: 800px;
+	border-style: solid;
+	padding: 10px;
+}
+.amount{
+	border-bottom-style: solid;
+	border-bottom-width:  2px;
+}
+.header {
+	border-bottom-style: solid;
+	border-bottom-width:  5px;
+	margin-bottom: 0px;
+}
+.top_part {
+	border-bottom-style: solid;
+}
+.with{
+	position: relative;
+	left:  200px;
+	line-height: 0px;
+}
+.fromfat {
+	border-top-style: solid;
+	border-top-width:  2px;
+	padding: 10px;
+}
+.daily{
+	border-bottom-style: solid;
+	border-bottom-width:  7px;
+}
