@@ -1,0 +1,19 @@
+.links:hover{
+  position: absolute;
+  left: 10px;
+  font-size: 40pt;
+  width: 100px;
+  height: 100px;
+  background: red;
+  transition: font-size 10s; 
+ 
+
+}
+.links{
+  font-size: 10pt;
+  width: 100px;
+  height: 100px;
+  background: green;
+  transition: font-size 10s;
+  transition-timing-function: ease-out;
+}
