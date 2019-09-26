@@ -1,4 +1,4 @@
-.links{
-	transition: width 2s, height 4s;
-    transition-timing-function: linear;
+.links:hover {
+  font-size: 40pt;
 }
+
